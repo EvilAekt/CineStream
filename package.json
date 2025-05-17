@@ -1,0 +1,21 @@
+{
+  "name": "idlix-movie-streaming",
+  "version": "1.0.0",
+  "description": "Movie streaming website with TMDB API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "movies",
+    "streaming",
+    "tmdb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
